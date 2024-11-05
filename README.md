@@ -6,7 +6,6 @@ Este archivo contiene varios ejercicios para poder practicar el uso de arrays. D
 1. Welcome
 2. Boxes
 3. IceCream
-4. RandomNumbers
 
 ### Instrucciones
 1. Has un fork del repositorio del ejercicio (enlace en Notion)
